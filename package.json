@@ -1,0 +1,15 @@
+{
+  "name": "telegram",
+  "version": "1.0.0",
+  "description": "telegram bot mp4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "kata-kunci",
+    "lainnya"
+  ],
+  "author": "RianzoWasTaken",
+  "license": "MIT"
+}
