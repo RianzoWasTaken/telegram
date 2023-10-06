@@ -1,6 +1,6 @@
 const TelegramBot = require('node-telegram-bot-api');
 const axios = require('axios');
-const token = 'YOUR_BOT_TOKEN'; // Ganti dengan token API bot Anda
+const token = '6613868535:AAE0oZZ63Iny6YnSePpuyY-WRuiGbxXBi6Y'; // Ganti dengan token API bot Anda
 const bot = new TelegramBot(token, { polling: true });
 
 // Menangani perintah /download
