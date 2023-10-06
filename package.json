@@ -4,11 +4,11 @@
   "description": "telegram bot mp4",
   "main": "index.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "npm start"
   },
   "keywords": [
-    "kata-kunci",
-    "lainnya"
+    "mp4",
+    "bot"
   ],
   "author": "RianzoWasTaken",
   "license": "MIT"
